@@ -1,0 +1,155 @@
+body {
+    background-color: #000000;
+}
+
+
+
+.bandera-argentina .franja-celeste {
+    background-color: #41b6ecd2;
+    width: 300px;
+    height: 200px;
+    margin-top: 400px;
+    display : flexbox;
+}
+
+.bandera-argentina .franja-blanca {
+    background-color: #ffffff;
+    width: 300px;
+    height: 200px;                                                                                      
+    display: flexbox;
+}   
+
+.bandera-argentina .franja-celestee {
+    background-color: #41b6ecd2;
+    width: 300px;
+    height: 200px;
+    margin-top: 0px;
+    display : flexbox;
+}
+
+.bandera-mexico .franja-verde {
+    background-color: #109616d2;
+    width: 300px;
+    height: 200px;
+    margin-left: 305px;
+    margin-top: -600px;
+    display :flexbox;
+}
+
+.bandera-mexico .franja-blanca {
+    background-color: #ffffff;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 305px;
+    display: flexbox;
+}
+
+.bandera-mexico .franja-roja {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 305px;
+    display: flexbox;
+}
+
+
+.bandera-colombia .franja-amarillo {
+    background-color: #d8e614;
+    width: 300px;
+    height: 200px; 
+    margin-top: -600px;                                                                                      
+    margin-left: 612px;
+    display: flexbox;
+}
+
+.bandera-colombia .franja-azul {
+    background-color: #2404b3;
+    width: 300px;
+    height: 200px;                                                                                      
+    margin-left: 612px;
+    display: flexbox;
+}
+
+.bandera-colombia .franja-roja {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;                                                                                      
+    margin-left: 612px;
+    display: flexbox;
+}
+
+.bandera-paraguay .franja-roja {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;         
+    margin-top: -600px;                                                                              
+    margin-left: 918px ;
+    display: flexbox;
+}
+
+.bandera-paraguay .franja-blanca {
+    background-color: #ffffff;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 918px ;
+    display: flexbox;
+}
+
+.bandera-paraguay .franja-azul {
+    background-color: #2404b3;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 918px ;
+    display: flexbox;
+}
+
+.bandera-peru .franja-roja {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;     
+    margin-top: -600px;                                                                                  
+    margin-left: 1224px;
+    display: flexbox;
+}
+.bandera-peru .franja-blanca {
+    background-color: #ffffff;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 1224px;
+    display: flexbox;
+}
+
+.bandera-peru .franja-rojaa {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 1224px;
+    display: flexbox;
+}
+
+.bandera-bolivia .franja-roja {
+    background-color: #e61414;
+    width: 300px;
+    height: 200px;    
+    margin-top: -600px;                                                                                   
+    margin-left: 1530px;
+    display: flexbox;
+}
+
+.bandera-bolivia .franja-amarilla {
+    background-color: #d8e614;
+    width: 300px;
+    height: 200px;                                                                                       
+    margin-left: 1530px;
+    display: flexbox;
+}
+
+.bandera-bolivia .franja-verde {
+    background-color: #109616d2;
+    width: 300px;
+    height: 200px;
+    margin-left: 1530px;
+    display :flexbox;
+}
+
+
