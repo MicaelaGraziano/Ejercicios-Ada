@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(228, 228, 109);
+    width: 100%;
+}
+
+.contain-card {
+    background-color: rgb(203, 167, 238);
+    width: 95rem;
+    height: 55rem;
+    display: flex;
+    margin: 10% 25%;
+    flex-flow:wrap column;
+    align-items: stretch;
+    
+}
+
+.contain-card .contain-menu {
+    background-color: rgb(55, 55, 170);
+    width: 20rem;
+    height: 42rem;
+    margin: 25px 35px;
+   
+}
+
+.contain-card .contain-main-aside {
+    background-color: rgb(35, 185, 35);
+    width: 65rem;
+    height: 30rem;
+    display: flex;
+    flex-grow: 3;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.contain-card .contain-main {
+    background-color: rgb(216, 52, 52);
+    width: 40rem;
+    height: 35rem;
+    margin: 8px;
+    flex-grow: 2;
+
+}
+
+.contain-card .contain-aside {
+    background-color: rgb(235, 94, 43);
+    width: 20rem;
+    height: 35rem;
+    margin: 8px;
+    flex-grow: 1;
+}
+
+.contain-card .contain-footer {
+    background-color: rgb(65, 153, 236);
+    width: 90rem;
+    height: 9rem;
+    display: flex;
+    align-self: center;
+    margin-left:-390px ;
+    margin-bottom: 10px;
+    padding: 5px;
+    
+}

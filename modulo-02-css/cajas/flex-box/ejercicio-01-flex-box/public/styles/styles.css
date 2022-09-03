@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(31, 28, 28);
+}
+
+.contain-card {
+    background-color: rgb(247, 201, 201);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(117, 114, 110);
+    font-size: 25px;
+    height: 30rem;
+    width: 40%;
+    display: flex;
+    margin: 15% 30% ;
+
+}
+
+.contain-card .contain-image {
+    margin: 50px;
+    display: flex ;
+ 
+   
+}
+
+.contain-card .contain {
+    display: flex;
+    flex-direction: column;
+
+}
+
+

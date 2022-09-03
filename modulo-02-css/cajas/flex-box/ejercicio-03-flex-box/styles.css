@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(144, 231, 202);
+}
+
+.contain-general {
+    background-color: rgb(243, 219, 182);
+    width: 80rem;
+    height: 80rem;
+    display: flex;
+    margin: 1% 27% ;
+   flex-wrap: wrap;
+}
+
+.contain-general .contain-usuario {
+ background-color: rgb(163, 235, 135);
+ width: 70rem;
+ height: 10rem;
+ margin: 30px 70px;
+ display: flex;
+ justify-content: space-between;
+}
+
+.contain-general .contain-usuario .avatar {
+    background-color: rgb(44, 212, 128);
+    width: 9rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px; 
+}
+.contain-general .contain-usuario .nombre {
+    background-color: rgb(44, 212, 128);
+    width: 40rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+.contain-general .contain-usuario .icono {
+    background-color: rgb(44, 212, 128);
+    width: 10rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 40px;
+}
+
+
+.contain-general .contain-list {
+ background-color: rgb(163, 235, 135);
+ width: 70rem;
+ height: 50rem;
+ margin: 0px 70px;
+ display: flex;
+ flex-direction: column;
+ padding: 22px
+}
+
+.contain-general .contain-list .perfil {
+    background-color: rgb(44, 212, 128);
+    width: 67rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+.contain-general .contain-list .contacto {
+    background-color: rgb(44, 212, 128);
+    width: 67rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+.contain-general  .contain-list .tarjetas {
+    background-color: rgb(44, 212, 128);
+    width: 67rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+.contain-general  .contain-list .redes  {
+    background-color: rgb(44, 212, 128);
+    width: 67rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+.contain-general  .contain-list .ajustes  {
+    background-color: rgb(44, 212, 128);
+    width: 67rem;
+    height: 9rem;
+    margin: 10px 10px;
+    text-align:center;
+    font-size: 50px;
+}
+
+
+.contain-general .contain-footer {
+    background-color: rgb(44, 212, 128);
+    width: 72rem;
+    height: 9rem;
+    margin: 30px 70px;
+    text-align:center;
+    font-size: 50px;
+}
