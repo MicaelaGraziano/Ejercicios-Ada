@@ -1,0 +1,24 @@
+.contain-tareas {
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.contain-tareas #hecha {
+    background-color: rgb(66, 241, 81);
+    width: 8rem;
+}
+
+.contain-tareas #haciendo {
+    background-color: rgb(245, 196, 61);
+    width: 12rem;
+}
+
+.contain-tareas #pendiente {
+    background-color: rgb(45, 58, 245);
+    width: 13rem;
+}
+
+.contain-tareas #cancelada {
+    background-color: rgb(211, 25, 25);
+    width: 13rem;
+}

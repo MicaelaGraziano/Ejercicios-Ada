@@ -1,0 +1,43 @@
+.contain-comentario {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.contain-comentario .contain-nombre h3 {
+    color: rgb(104, 211, 145);
+    text-decoration: none;
+}
+
+.contain-comentario .contain-hora p {
+    color: rgb(180, 180, 180);
+    font-size: 30px;
+
+}
+
+.contain-comentario .contain-emojis {
+display: flex;
+justify-content: space-around
+
+}
+
+
+.contain-comentario .contain-emoji-a {
+    background-color: rgb(177, 177, 177);
+    width: 10rem;
+}
+
+.contain-comentario .contain-emoji-b {
+    background-color: rgb(177, 177, 177);
+    width: 10rem;
+}
+
+.contain-comentario .contain-emoji-c {
+    background-color: rgb(177, 177, 177);
+    width: 10rem;
+
+}
+
+.contain-comentario .contain-emoji-d {
+    background-color: rgb(177, 177, 177);
+    width: 10rem;
+}

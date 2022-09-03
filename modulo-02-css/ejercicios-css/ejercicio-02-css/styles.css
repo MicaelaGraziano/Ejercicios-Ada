@@ -1,0 +1,59 @@
+body {
+    background-color: #000000;
+}
+
+
+.presentacion h1 {
+     color: #7fffd4;
+     font-size: 120px;
+     font-family: 'Silkscreen', cursive;
+     font-weight: 800;
+     text-align: center;
+}
+
+#nombre {
+    color: #deeb29;
+}
+
+.descripcion p {
+     color: #f5f5dc;
+     font-size: 48px;
+     font-family: 'Inconsolata', monospace;
+     font-weight: 700 ;
+}
+
+.descripcion #pro {
+    color: #e278ba;
+    font-size: 48px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    text-indent: 50px;
+    
+}
+
+.descripcion #sdo {
+    color: #878de7;
+    font-size: 48px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700 ;
+    text-indent: 50px;
+}
+
+.descripcion #tro {
+    color: #e46868;
+    font-size: 48px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700 ;
+    text-indent: 50px;
+}
+
+.descripcion #cto {
+    color: #9be67e;
+    font-size: 48px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700 ;
+    text-indent: 50px;
+}
+
+
+

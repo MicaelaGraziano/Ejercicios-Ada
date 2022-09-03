@@ -1,0 +1,106 @@
+body {
+    background-color: #ffffff;
+}
+
+.contain {
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+.contain h1 {
+    text-align: center;
+}
+
+.pastel #pasteluno  {
+    background-color: #51BFFA;
+    width: 220px;
+    height: 55px;
+}
+
+.pastel #pasteldos  {
+    background-color: #9ADCFF;
+    width: 220px;
+    height: 55px;
+}
+
+.pastel #pasteltres  {
+    background-color: #FFF89A;
+    width: 220px;
+    height: 55px;
+}
+
+.pastel #pastelcuatro  {
+    background-color: #FFB2A6;
+    width: 220px;
+    height: 55px;
+}
+
+.pastel #pastelcinco  {
+    background-color: #FF8AAE;
+    width: 220px;
+    height: 55px;
+}
+
+.atardecer #ataruno {
+    background-color: rgb(182, 5, 17);
+    width: 430px;
+    height: 55px;
+}
+
+.atardecer #atardos {
+    background-color: rgb(249, 7, 22);
+    width: 430px;
+    height: 55px;
+}
+
+.atardecer #atartres {
+    background-color: rgb(255, 84, 3);
+    width: 430px;
+    height: 55px;
+}
+
+.atardecer #atarcuatro {
+    background-color: rgb(255, 202, 3);
+    width: 430px;
+    height: 55px;
+}
+
+.atardecer #atarcinco {
+    background-color: rgb(255, 243, 35);
+    width: 430px;
+    height: 55px;
+}
+
+.oceano #oceauno {
+    background-color: hsl(239, 94%, 19%);
+    width: 450px;
+    height: 55px;
+}
+
+.oceano #oceados {
+    background-color: hsl(190, 100%, 42%);
+    width: 450px;
+    height: 55px;
+}
+
+.oceano #oceatres {
+    background-color: hsl(189, 75%, 75%);
+    width: 450px;
+    height: 55px;
+}
+
+.oceano #oceacuatro {
+    background-color: hsl(190, 77%, 88%);
+    width: 450px;
+    height: 55px;
+}
+
+.oceano #oceacinco {
+    background-color: hsl(192, 62%, 92%);
+    width: 450px;
+    height: 55px;
+}
+
+
+

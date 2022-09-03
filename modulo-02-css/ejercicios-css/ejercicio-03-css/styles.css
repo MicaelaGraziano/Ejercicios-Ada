@@ -1,0 +1,52 @@
+body {
+    background-color: #e9d0b2;
+}
+
+.titulo h1 {
+    color: #8a2be2;
+    font-size: 80px;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.texto {
+    color: #4e4b4b;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.texto #italica {
+    color: #4e4b4b;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.texto #negrita {
+    color: #4e4b4b;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder ;
+}
+
+.texto #cambio p {
+    color: #4e4b4b;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+}
+
+.texto #neg {
+    color: #4e4b4b;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder ;
+}
+
+.texto #ita {
+    color: #4e4b4b;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
